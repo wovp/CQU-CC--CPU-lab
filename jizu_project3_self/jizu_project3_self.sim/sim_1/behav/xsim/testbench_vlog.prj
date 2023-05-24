@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../jizu_project3_self.srcs/sources_1/ip/data_ram/sim/data_ram.v" \
+"../../../../jizu_project3_self.srcs/sources_1/ip/instr_ram/sim/instr_ram.v" \
+"../../../../import/alu.v" \
+"../../../../import/aludec.v" \
+"../../../../import/controller.v" \
+"../../../../jizu_project3_self.srcs/sources_1/new/datapath.v" \
+"../../../../import/maindec.v" \
+"../../../../import/mips.v" \
+"../../../../import/mux2.v" \
+"../../../../import/pc.v" \
+"../../../../import/regfile.v" \
+"../../../../import/signext.v" \
+"../../../../import/top.v" \
+"../../../../import/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

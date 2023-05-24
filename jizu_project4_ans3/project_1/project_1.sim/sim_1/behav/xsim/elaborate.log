@@ -1,0 +1,12 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: F:/verilog/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 39818fbefb144d66ac98263e5ab5b474 --incr --debug typical --relax --mt 2 -L blk_mem_gen_v8_4_2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 8 for port 'd' [F:/verilog/jizu_project4_ans3/project_1/project_1.srcs/sources_1/imports/ex4/rtl/controller.v:76]
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 8 for port 'q' [F:/verilog/jizu_project4_ans3/project_1/project_1.srcs/sources_1/imports/ex4/rtl/controller.v:77]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 8 for port 'd' [F:/verilog/jizu_project4_ans3/project_1/project_1.srcs/sources_1/imports/ex4/rtl/controller.v:82]
+WARNING: [VRFC 10-3091] actual bit length 2 differs from formal bit length 8 for port 'q' [F:/verilog/jizu_project4_ans3/project_1/project_1.srcs/sources_1/imports/ex4/rtl/controller.v:83]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 10 for port 'addra' [F:/verilog/jizu_project4_ans3/project_1/project_1.srcs/sources_1/imports/ex4/rtl/top.v:58]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

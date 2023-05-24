@@ -1,0 +1,37 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Sun May 21 10:55:12 2023
+| Host         : LAPTOP-RJ33G89C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'inst_ram'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of inst_ram (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 1) to (Rev. 2)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Sun May 21 10:55:12 2023
+| Host         : LAPTOP-RJ33G89C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7a100tcsg324-3
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'data_ram'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of data_ram (xilinx.com:ip:blk_mem_gen:8.4) from (Rev. 1) to (Rev. 2)
+

@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed May 10 10:10:15 2023
+# Process ID: 4512
+# Current directory: F:/verilog/jizu_project3_self
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10244 F:\verilog\jizu_project3_self\jizu_project3_self.xpr
+# Log file: F:/verilog/jizu_project3_self/vivado.log
+# Journal file: F:/verilog/jizu_project3_self\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/verilog/jizu_project3_self/jizu_project3_self.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config F:/verilog/jizu_project3_self/testbench_behav.wcfg
+source testbench.tcl
+close_sim

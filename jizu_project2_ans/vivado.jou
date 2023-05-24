@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Apr 23 23:31:15 2023
+# Process ID: 14780
+# Current directory: F:/verilog/project_juzu_02_ans
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9004 F:\verilog\project_juzu_02_ans\project_1.xpr
+# Log file: F:/verilog/project_juzu_02_ans/vivado.log
+# Journal file: F:/verilog/project_juzu_02_ans\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/verilog/project_juzu_02_ans/project_1.xpr
+update_compile_order -fileset sources_1

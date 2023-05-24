@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun May 21 10:55:40 2023
+# Process ID: 15892
+# Current directory: F:/verilog/jizu_project4_ans3/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/verilog/jizu_project4_ans3/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/verilog/jizu_project4_ans3/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/verilog/jizu_project4_ans3/project_1/project_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/verilog/jizu_project4_ans3/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace

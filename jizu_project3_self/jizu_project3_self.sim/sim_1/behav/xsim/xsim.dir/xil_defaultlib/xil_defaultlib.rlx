@@ -1,0 +1,21 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/verilog/jizu_project3_self/import/adder.v,1510280216,verilog,,F:/verilog/jizu_project3_self/import/alu.v,,adder,,,,,,,,
+F:/verilog/jizu_project3_self/import/alu.v,1683631301,verilog,,F:/verilog/jizu_project3_self/import/aludec.v,,alu,,,,,,,,
+F:/verilog/jizu_project3_self/import/aludec.v,1683622249,verilog,,F:/verilog/jizu_project3_self/import/controller.v,,aludec,,,,,,,,
+F:/verilog/jizu_project3_self/import/controller.v,1683633892,verilog,,F:/verilog/jizu_project3_self/jizu_project3_self.srcs/sources_1/new/datapath.v,,controller,,,,,,,,
+F:/verilog/jizu_project3_self/import/maindec.v,1683633781,verilog,,F:/verilog/jizu_project3_self/import/mips.v,,maindec,,,,,,,,
+F:/verilog/jizu_project3_self/import/mips.v,1683651096,verilog,,F:/verilog/jizu_project3_self/import/mux2.v,,mips,,,,,,,,
+F:/verilog/jizu_project3_self/import/mux2.v,1683630921,verilog,,F:/verilog/jizu_project3_self/import/pc.v,,mux2,,,,,,,,
+F:/verilog/jizu_project3_self/import/pc.v,1683612315,verilog,,F:/verilog/jizu_project3_self/import/regfile.v,,pc,,,,,,,,
+F:/verilog/jizu_project3_self/import/regfile.v,1651728998,verilog,,F:/verilog/jizu_project3_self/import/signext.v,,regfile,,,,,,,,
+F:/verilog/jizu_project3_self/import/signext.v,1672215599,verilog,,F:/verilog/jizu_project3_self/import/top.v,,signext,,,,,,,,
+F:/verilog/jizu_project3_self/import/testbench.v,1683731584,verilog,,,,testbench,,,,,,,,
+F:/verilog/jizu_project3_self/import/top.v,1683737750,verilog,,F:/verilog/jizu_project3_self/import/testbench.v,,top,,,,,,,,
+F:/verilog/jizu_project3_self/jizu_project3_self.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/verilog/jizu_project3_self/jizu_project3_self.srcs/sim_1/new/testDatapath.v,1683604368,verilog,,,,testDatapath,,,,,,,,
+F:/verilog/jizu_project3_self/jizu_project3_self.srcs/sources_1/ip/data_ram/sim/data_ram.v,1683737779,verilog,,F:/verilog/jizu_project3_self/jizu_project3_self.srcs/sources_1/ip/instr_ram/sim/instr_ram.v,,data_ram,,,,,,,,
+F:/verilog/jizu_project3_self/jizu_project3_self.srcs/sources_1/ip/instr_ram/sim/instr_ram.v,1683736419,verilog,,F:/verilog/jizu_project3_self/import/alu.v,,instr_ram,,,,,,,,
+F:/verilog/jizu_project3_self/jizu_project3_self.srcs/sources_1/new/datapath.v,1683735782,verilog,,F:/verilog/jizu_project3_self/import/maindec.v,,datapath,,,,,,,,

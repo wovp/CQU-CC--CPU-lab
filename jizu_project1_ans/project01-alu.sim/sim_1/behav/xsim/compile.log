@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/verilog/shiyan14/shiyan14/pipline.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipline
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'c_out' is not allowed [F:/verilog/shiyan14/shiyan14/pipline.v:33]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'sum_out' is not allowed [F:/verilog/shiyan14/shiyan14/pipline.v:36]
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/verilog/shiyan14/shiyan14/project01-alu/project01-alu.srcs/sim_1/new/liushuixianfangzhen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add32_4_test

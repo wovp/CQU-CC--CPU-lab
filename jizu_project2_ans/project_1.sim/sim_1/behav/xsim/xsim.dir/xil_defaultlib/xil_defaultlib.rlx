@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/verilog/project_juzu_02_ans/project_1.sim/sim_1/behav/xsim/glbl.v,1672215599,verilog,,,,glbl,,,,,,,,
+F:/verilog/project_juzu_02_ans/project_1.srcs/sim_1/new/sim.v,1672215599,verilog,,,,sim,,,,,,,,
+F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1672215599,verilog,,F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/aludec.v,,blk_mem_gen_0,,,,,,,,
+F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/aludec.v,1682233928,verilog,,F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/controller.v,,aludec,,,,,,,,
+F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/controller.v,1672215599,verilog,,F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/maindec.v,,controller,,,,,,,,
+F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/maindec.v,1672215599,verilog,,F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/pc.v,,maindec,,,,,,,,
+F:/verilog/project_juzu_02_ans/project_1.srcs/sources_1/new/pc.v,1682233684,verilog,,F:/verilog/project_juzu_02_ans/project_1.srcs/sim_1/new/sim.v,,pc,,,,,,,,
